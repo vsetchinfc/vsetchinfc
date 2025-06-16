@@ -32,7 +32,7 @@ With over 25 years of hands-on experience in the software industry, I am a passi
 **Full Stack Developer**
 
 - Architected and developed scalable, event-driven healthcare solutions.
-- Supported CI/CD automation and remote team collaboration.
+- Have solid experience in CI/CD automation and remote team collaboration.
 - Achieved Microsoft Certified: Azure Developer Associate.
 
 #### Noble Systems (2010 – 2019)
